@@ -29,3 +29,6 @@ function formatArrayString(stringArray, processedNumbers){
     return formattedString;
 }
 
+module.exports= {
+    formatArrayString
+};
